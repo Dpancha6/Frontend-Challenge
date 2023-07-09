@@ -6,8 +6,6 @@ import {
   Transaction,
   Employee,
 } from "./types"
-import { App } from "src/App"
-import { AppContextProvider } from "src/components/AppContextProvider/index"
 import mockData from "../mock-data.json"
 
 const TRANSACTIONS_PER_PAGE = 5
