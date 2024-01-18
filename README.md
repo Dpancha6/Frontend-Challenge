@@ -1,6 +1,7 @@
 # Instructions
 
 Welcome to Ramp's frontend interview challenge.
+Here is the Solution: https://dpancha6.github.io/Frontend-Challenge/
 
 In this challenge, you will need to fix certain bugs within the starter code provided to you.
 
